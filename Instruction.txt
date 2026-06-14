@@ -1,0 +1,11 @@
+Project Goal:
+
+Design a prompt that forces the AI to solve logic problems through structured reasoning.
+
+Requirements:
+
+1. Use Chain-of-Thought prompting.
+2. Show reasoning steps.
+3. Implement a self-correction phase.
+4. Reduce hallucinations.
+5. Produce a final validated answer.
