@@ -1,0 +1,13 @@
+Problem Understanding:
+Each machine produces one widget in five minutes.
+
+Step-by-Step Reasoning:
+100 machines can work simultaneously.
+Each machine still needs only 5 minutes.
+
+Self-Correction Review:
+Check proportional reasoning.
+No scaling error exists.
+
+Final Answer:
+5 minutes
