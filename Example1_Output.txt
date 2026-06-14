@@ -1,0 +1,12 @@
+Problem Understanding:
+There are 17 sheep initially.
+
+Step-by-Step Reasoning:
+The phrase "all but 9 die" means all except 9 die.
+
+Self-Correction Review:
+Check interpretation:
+If all except 9 die, then 9 remain alive.
+
+Final Answer:
+9
